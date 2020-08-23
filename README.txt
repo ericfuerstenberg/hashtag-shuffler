@@ -1,0 +1,1 @@
+Hashtag shuffler is a script that generates a randomized list of hashtags based on three separate categories (large, medium, small) defined by the user. It pulls 5 hashtags from the large group, 10 from the medium group, and 15 from the small group, creates a randomized list of results (number defined by user) and sends the results via email to the intended recipient.
