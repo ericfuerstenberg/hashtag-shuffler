@@ -45,7 +45,6 @@ def send_mail(message):
 
 
 if __name__ == '__main__':
-    
     files = ["input/large.txt", "input/medium.txt", "input/small.txt"]
     sender_email = "automation.ericfuerstenberg@gmail.com"  # Enter your address
     receiver_email = "ericfuerstenberg@gmail.com"  # Enter receiver address
